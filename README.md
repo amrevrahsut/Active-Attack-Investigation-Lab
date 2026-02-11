@@ -50,7 +50,7 @@ Using a variety of forensic tools, I identified the following "footprints" left 
 ---
 
 ## 📂 Repository Contents
-* `[Sanitized_Incident_Report].pdf`: Full technical evidence report including screenshots.
+* [Sanitized_Incident_Report](./Active_Attack_Simulation_&_Forensic_Investigation_Proof.pdf): Full technical evidence report including screenshots.
 * `README.md`: Project summary and investigation notes.
 
 ---
